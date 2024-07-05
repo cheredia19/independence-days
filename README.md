@@ -3,7 +3,7 @@ title: 'Independence days around the world'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the dates of the different independence days in 183 selected countries'
 modified: '2024-07-05'
-files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv']
+files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv','century_decade.csv']
 group: 'Miscellaneous'
 ---
 
@@ -41,4 +41,14 @@ group: 'Miscellaneous'
   data={{
     url: 'per_year.csv'
   }}
+/>
+
+#### Number of independences per century/decade
+<PlotlyBarChart
+  data={{
+    url: 'century_decade.csv'
+  }}
+  title="The 1960s stand out among the rest"
+  xAxis="century_decade"
+  yAxis="number"
 />
