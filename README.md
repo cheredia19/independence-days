@@ -37,11 +37,8 @@ group: 'Miscellaneous'
 />
 
 #### Number of independences per year
-<LineChart
+<FlatUiTable
   data={{
     url: 'per_year.csv'
   }}
-  title="1960 and 1991 stand out from the rest"
-  xAxis="year"
-  yAxis="number"
 />
