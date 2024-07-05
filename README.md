@@ -1,9 +1,9 @@
 ---
-title: 'Independendence days around the world'
+title: 'Independence days around the world'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the dates of the different independence days'
-modified: '2024-06-29'
-files: ['independence_days.csv']
+modified: '2024-07-05'
+files: ['countries_date.csv']
 group: 'Miscellaneous'
 ---
 
@@ -12,6 +12,6 @@ group: 'Miscellaneous'
 #### Independendence days per country
 <FlatUiTable
   data={{
-    url: 'independence_days.csv'
+    url: 'countries_date.csv'
   }}
 />
