@@ -1,9 +1,9 @@
 ---
 title: 'Independence days around the world'
 author: 'César Heredia, data journalist'
-description: 'A detailed look at the dates of the different independence days'
+description: 'A detailed look at the dates of the different independence days in 183 selected countries'
 modified: '2024-07-05'
-files: ['countries_date.csv','per_day.csv','per_month.csv']
+files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv']
 group: 'Miscellaneous'
 ---
 
@@ -33,5 +33,15 @@ group: 'Miscellaneous'
   }}
   title="August is the month with the most country independences"
   xAxis="month"
+  yAxis="number"
+/>
+
+#### Number of independences per year
+<PlotlyBarChart
+  data={{
+    url: 'per_year.csv'
+  }}
+  title="1960 and 1991 stand out from the rest"
+  xAxis="year"
   yAxis="number"
 />
