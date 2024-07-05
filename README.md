@@ -37,7 +37,7 @@ group: 'Miscellaneous'
 />
 
 #### Number of independences per year
-<PlotlyBarChart
+<LineChart
   data={{
     url: 'per_year.csv'
   }}
