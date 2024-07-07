@@ -93,7 +93,7 @@ The table below shows the number of independences each year, sorted in descendin
 
 ## United Kingdom: The ultimate modern empire
 
-Fifty-nine nations reached independence from the United Kingdom between the United States (1776), and Brunei (1984). Twenty-six countries freed from France since 1804 (Haiti). [Vanuatu gained independence from both the UK and France in 1980](https://www.geeksforgeeks.org/independence-day-of-vanuatu/).
+Fifty-nine nations reached independence from the United Kingdom between the United States (1776), and Brunei (1984). Twenty-six countries were freed from France since 1804 (Haiti). [Vanuatu gained independence from both the UK and France in 1980](https://www.geeksforgeeks.org/independence-day-of-vanuatu/).
 
 ### Independence from...
 <PlotlyBarChart
@@ -105,4 +105,4 @@ Fifty-nine nations reached independence from the United Kingdom between the Unit
   yAxis="number"
 />
 
-Twenty States became autonomous from Spain, the majority located in Central and South America, as other 16 countries that belonged either to the Russian Empire (prior to 1918) or to the Soviet Union (until 1990-91). The disintegration of the USSR marked the [end of the Cold War](https://www.britannica.com/question/How-did-the-Cold-War-end).
+Twenty States became autonomous from Spain, the majority located in Central and South America, as other 16 countries that belonged either to the Russian Empire (before 1918) or to the Soviet Union (until 1990-91). The disintegration of the USSR marked the [end of the Cold War](https://www.britannica.com/question/How-did-the-Cold-War-end).
