@@ -13,7 +13,7 @@ The United States celebrated the 248th anniversary of its independence from the 
 
 Below is the full list of 172 states that obtained independence from 1000 (Hungary) to 2011 (South Sudan).
 
-#### Independendence days per country
+### Independendence days per country
 <FlatUiTable
   data={{
     url: 'countries_date.csv'    
@@ -28,7 +28,7 @@ On September 9, 1821, five countries separated from Spain (Costa Rica, El Salvad
  - July 1, 1962: Burundi and Rwanda regained independence from Belgium.
 
 
-#### Timeline of independence days
+### Timeline of independence days
 <PlotlyLineChart
   data={{
     url: 'per_date.csv'
@@ -37,7 +37,7 @@ On September 9, 1821, five countries separated from Spain (Costa Rica, El Salvad
   yAxis="number"
 />
 
-#### Number of independences per day
+### Number of independences per day
 <PlotlyBarChart
   data={{
     url: 'per_day.csv'
@@ -47,7 +47,7 @@ On September 9, 1821, five countries separated from Spain (Costa Rica, El Salvad
   yAxis="number"
 />
 
-#### Number of independences per month
+### Number of independences per month
 <PlotlyBarChart
   data={{
     url: 'per_month.csv'
@@ -57,14 +57,14 @@ On September 9, 1821, five countries separated from Spain (Costa Rica, El Salvad
   yAxis="number"
 />
 
-#### Number of independences per year
+### Number of independences per year
 <FlatUiTable
   data={{
     url: 'per_year.csv'
   }}
 />
 
-#### Independence from...
+### Independence from...
 <PlotlyBarChart
   data={{
     url: 'independence_from.csv'
@@ -74,7 +74,7 @@ On September 9, 1821, five countries separated from Spain (Costa Rica, El Salvad
   yAxis="number"
 />
 
-#### Number of independences per century/decade
+### Number of independences per century/decade
 <PlotlyBarChart
   data={{
     url: 'century_decade.csv'
