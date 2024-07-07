@@ -73,13 +73,12 @@ By months, the ones that belong to the third quarter of the year have the highes
   }}
 />
 
-### Independence from...
+### Number of independences per year
 <PlotlyBarChart
   data={{
-    url: 'independence_from.csv'
+    url: 'per_year.csv'
   }}
-  title="Almost 60 countries became independent from United Kingdom"
-  xAxis="independence_from"
+  xAxis="month"
   yAxis="number"
 />
 
@@ -90,5 +89,15 @@ By months, the ones that belong to the third quarter of the year have the highes
   }}
   title="The 1960s stand out among the rest"
   xAxis="century_decade"
+  yAxis="number"
+/>
+
+### Independence from...
+<PlotlyBarChart
+  data={{
+    url: 'independence_from.csv'
+  }}
+  title="Almost 60 countries became independent from United Kingdom"
+  xAxis="independence_from"
   yAxis="number"
 />
