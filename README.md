@@ -68,7 +68,9 @@ By months, the ones that belong to the third quarter of the year have the highes
 
 ## 18 countries gained independence in 1960
 
-The 20th century saw an amazing number of 146 declarations of independence, a sign of how important the 1900 centenary was in world history. Twenty percent of those were held in the 1960s. Only in 1960, 17 Sub-Saharan countries became independent, [mostly from France](https://www.france24.com/en/20100214-1960-year-independence), and Cyprus (from the UK). In the meantime, 56.8% of processes took place between 1951 and 1980.
+The 20th century saw an amazing number of 146 declarations of independence, a sign of how important the 1900 centenary was in world history. Twenty percent of those were held in the 1960s. Only in 1960, 17 Sub-Saharan countries became independent, [mostly from France](https://www.france24.com/en/20100214-1960-year-independence), and Cyprus (from the United Kingdom). In the meantime, 56.8% of processes took place between 1951 and 1980.
+
+Special mentions to the decades of 1820s, when Greece and 11 Latin American countries became independent; the 1910s (15 States), and the 1990s, when the Soviet Union and Yugoslavia disintegrated.
 
 ### Number of independences per century/decade
 <PlotlyBarChart
@@ -80,12 +82,18 @@ The 20th century saw an amazing number of 146 declarations of independence, a si
   yAxis="number"
 />
 
+The table below shows the number of independences each year, sorted in descending order. If you want to sort ascendingly, just click on the arrow next to the *year* title.
+
 ### Number of independences per year
 <FlatUiTable
   data={{
     url: 'per_year.csv'
   }}
 />
+
+## United Kingdom: The ultimate modern empire
+
+Fifty-nine nations reached independence from the United Kingdom between the United States (1776), and Brunei (1984); 26 countries from France...
 
 ### Independence from...
 <PlotlyBarChart
