@@ -39,7 +39,7 @@ On September 15, 1821, five countries separated from Spain (Costa Rica, El Salva
 
 ## New year, new beginning
 
-However, the day with the most independences (six) is January 1. Haiti (1804), Sudan (1956), Cameroon (1960), Samoa (1962), and the (then) Czech Republic (1993) gained sovereignty on the first day of the year. It's followed by the aforementioned September, 15. July, 1, and August 15 count four independence processes each:
+However, the day with the most independences (six) is January 1. Haiti (1804), Sudan (1956), Cameroon (1960), Samoa (1962), and the Czech Republic (1993) gained sovereignty on the first day of the year. It's followed by the aforementioned September, 15. July, 1, and August 15 count four independence processes each:
 
 -  July 1: Canada (1867), Somalia (1960), Burundi and Rwanda (1962).
 -  The Koreas (1945), India (1947), and Republic of the Congo (1960).
@@ -53,6 +53,8 @@ However, the day with the most independences (six) is January 1. Haiti (1804), S
   xAxis="date"
   yAxis="number"
 />
+
+By months, the ones that belong to the third quarter of the year have the highest number of independence events of the 172 analyzed in this work, as seen in the next chart:
 
 ### Number of independences per month
 <PlotlyBarChart
