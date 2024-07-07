@@ -3,7 +3,7 @@ title: 'Independence days around the world'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the dates of the different independence days in 183 selected countries'
 modified: '2024-07-05'
-files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv','per_date.csv','century_decade.csv']
+files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv','per_date.csv','century_decade.csv','independence_from.csv',]
 group: 'Miscellaneous'
 ---
 
@@ -50,6 +50,16 @@ group: 'Miscellaneous'
   data={{
     url: 'per_year.csv'
   }}
+/>
+
+#### Independence from...
+<PlotlyBarChart
+  data={{
+    url: 'independence_from.csv'
+  }}
+  title="Almost 60 countries became independent from United Kingdom"
+  xAxis="independence_from"
+  yAxis="number"
 />
 
 #### Number of independences per century/decade
