@@ -20,7 +20,7 @@ Below is the full list of 172 states that obtained independence from 1000 (Hunga
   }}
 />
 
-On September 9, 1821, five countries separated from Spain (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua). The event is called *Independencia de Centroamérica*, or [Independence of Central America](https://en.wikipedia.org/wiki/Act_of_Independence_of_Central_America). This was the date on which most countries gained their independence. There were four dates on which the independence process was held:
+On September 15, 1821, five countries separated from Spain (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua). The event is called *Independencia de Centroamérica*, or [Independence of Central America](https://en.wikipedia.org/wiki/Act_of_Independence_of_Central_America). This was the date on which most countries gained their independence. There were four dates on which the independence process was held:
 
  - May 28, 1918: Armenia and Azerbaijan declared independence from the Russian Empire.
  - August 15, 1945: North, and South Korea.
@@ -36,6 +36,13 @@ On September 9, 1821, five countries separated from Spain (Costa Rica, El Salvad
   xAxis="exact_date"
   yAxis="number"
 />
+
+## New year, new beginning
+
+However, the day with the most independences (six) is January 1. Haiti (1804), Sudan (1956), Cameroon (1960), Samoa (1962), and the (then) Czech Republic (1993) gained sovereignty on the first day of the year. It's followed by the aforementioned September, 15. July, 1, and August 15 count four independence processes each:
+
+-  July 1: Canada (1867), Somalia (1960), Burundi and Rwanda (1962).
+-  The Koreas (1945), India (1947), and Republic of the Congo (1960).
 
 ### Number of independences per day
 <PlotlyBarChart
