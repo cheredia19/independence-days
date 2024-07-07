@@ -3,7 +3,7 @@ title: 'Independence days around the world'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the dates of the different independence days in 172 selected countries or territories'
 modified: '2024-07-05'
-files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv','per_date.csv','century_decade.csv','independence_from.csv',]
+files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv','per_date.csv','century_decade.csv','independent_from.csv',]
 group: 'Miscellaneous'
 ---
 
@@ -93,14 +93,16 @@ The table below shows the number of independences each year, sorted in descendin
 
 ## United Kingdom: The ultimate modern empire
 
-Fifty-nine nations reached independence from the United Kingdom between the United States (1776), and Brunei (1984); 26 countries from France...
+Fifty-nine nations reached independence from the United Kingdom between the United States (1776), and Brunei (1984). Twenty-six countries freed from France since 1804 (Haiti). [Vanuatu gained independence from both the UK and France in 1980](https://www.geeksforgeeks.org/independence-day-of-vanuatu/).
 
 ### Independence from...
 <PlotlyBarChart
   data={{
-    url: 'independence_from.csv'
+    url: 'independent_from.csv'
   }}
   title="Almost 60 countries became independent from United Kingdom"
   xAxis="independence_from"
   yAxis="number"
 />
+
+Twenty States were freed from Spain, the majority located in Central and Southh America, while other 16 countries belonged either to the Russian Empire (prior to 1918) or to the Soviet Union (until 1990-91). The disintegration of the USSR marked the [end of the Cold War](https://www.britannica.com/question/How-did-the-Cold-War-end).
