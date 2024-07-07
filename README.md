@@ -3,7 +3,7 @@ title: 'Independence days around the world'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the dates of the different independence days in 183 selected countries'
 modified: '2024-07-05'
-files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv','century_decade.csv']
+files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv','per_date.csv','century_decade.csv']
 group: 'Miscellaneous'
 ---
 
@@ -14,6 +14,15 @@ group: 'Miscellaneous'
   data={{
     url: 'countries_date.csv'
   }}
+/>
+
+#### Timeline of independence days
+<LineChart
+  data={{
+    url: 'per_date.csv'
+  }}
+  xAxis="exact_date"
+  yAxis="number"
 />
 
 #### Number of independences per day
