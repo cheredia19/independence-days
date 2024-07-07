@@ -66,22 +66,6 @@ By months, the ones that belong to the third quarter of the year have the highes
   yAxis="number"
 />
 
-### Number of independences per year
-<PlotlyBarChart
-  data={{
-    url: 'per_year.csv'
-  }}
-  xAxis="year"
-  yAxis="number"
-/>
-
-### Number of independences per year
-<FlatUiTable
-  data={{
-    url: 'per_year.csv'
-  }}
-/>
-
 ### Number of independences per century/decade
 <PlotlyBarChart
   data={{
@@ -90,6 +74,13 @@ By months, the ones that belong to the third quarter of the year have the highes
   title="The 1960s stand out among the rest"
   xAxis="century_decade"
   yAxis="number"
+/>
+
+### Number of independences per year
+<FlatUiTable
+  data={{
+    url: 'per_year.csv'
+  }}
 />
 
 ### Independence from...
