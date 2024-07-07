@@ -11,7 +11,7 @@ group: 'Miscellaneous'
 
 The United States celebrated the 248th anniversary of its independence from the Kingdom of Great Britain on July 4. But "America" isn't the only country that gained independence in July. At least 23 out of 172 countries achieved the feat this month, among them Argentina, Belgium, Canada, Colombia, Rwanda, and Venezuela.
 
-Below is the full list of 172 states that obtained independence from 1000 (Hungary) to 2011 (South Sudan).
+Below is the full list of 172 states that obtained independence from 1000 (Hungary) to 2011 (South Sudan):
 
 ### Independendence days per country
 <FlatUiTable
@@ -20,7 +20,7 @@ Below is the full list of 172 states that obtained independence from 1000 (Hunga
   }}
 />
 
-On September 15, 1821, five countries separated from Spain (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua). The event is called *Independencia de Centroamérica*, or [Independence of Central America](https://en.wikipedia.org/wiki/Act_of_Independence_of_Central_America). This was the date on which most countries gained their independence. There were four dates on which the independence process was held:
+On September 15, 1821, five countries separated from Spain (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua). The event is called *Independencia de Centroamérica*, or [Independence of Central America](https://en.wikipedia.org/wiki/Act_of_Independence_of_Central_America). This was the date on which most countries gained their independence. There were four dates on which the independence process was held more than once:
 
  - May 28, 1918: Armenia and Azerbaijan declared independence from the Russian Empire.
  - August 15, 1945: North, and South Korea.
