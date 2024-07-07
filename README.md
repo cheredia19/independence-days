@@ -20,7 +20,7 @@ Below is the full list of 172 states that obtained independence from 1000 (Hunga
   }}
 />
 
-On September 15, 1821, five countries separated from Spain (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua). The event is called *Independencia de Centroamérica*, or [Independence of Central America](https://en.wikipedia.org/wiki/Act_of_Independence_of_Central_America). This was the date on which most countries gained their independence. There were four dates on which the independence process was held more than once:
+On **September 15, 1821**, five countries separated from Spain (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua). The event is called *Independencia de Centroamérica*, or [Independence of Central America](https://en.wikipedia.org/wiki/Act_of_Independence_of_Central_America). This was the date on which most countries gained their independence. There were four dates on which the independence process was held more than once:
 
  - May 28, 1918: Armenia and Azerbaijan declared independence from the Russian Empire.
  - August 15, 1945: North, and South Korea.
@@ -39,7 +39,7 @@ On September 15, 1821, five countries separated from Spain (Costa Rica, El Salva
 
 ## New year, new beginning
 
-However, the day with the most independences (six) is January 1. Haiti (1804), Sudan (1956), Cameroon (1960), Samoa (1962), and the Czech Republic (1993) gained sovereignty on the first day of the year. It's followed by the aforementioned September, 15. July, 1, and August 15 count four independence processes each:
+However, the day with the most independences (six) is **January 1**. Haiti (1804), Sudan (1956), Cameroon (1960), Samoa (1962), and the Czech Republic (1993) gained sovereignty on the first day of the year. It's followed by the aforementioned September, 15. July, 1, and August 15 count four independence processes each:
 
 -  July 1: Canada (1867), Somalia (1960), Burundi and Rwanda (1962).
 -  The Koreas (1945), India (1947), and Republic of the Congo (1960).
@@ -54,7 +54,7 @@ However, the day with the most independences (six) is January 1. Haiti (1804), S
   yAxis="number"
 />
 
-By months, the ones that belong to the third quarter of the year have the highest number of independence events of the 172 analyzed in this work, as seen in the next chart:
+By months, the ones that belong to the **third quarter of the year** recorded the highest number of independence events of the 172 analyzed in this report, as seen in the next chart:
 
 ### Number of independences per month
 <PlotlyBarChart
@@ -68,7 +68,7 @@ By months, the ones that belong to the third quarter of the year have the highes
 
 ## 18 countries gained independence in 1960
 
-The 20th century saw an amazing number of 146 declarations of independence, a sign of how important the 1900 centenary was in world history. Twenty percent of those were held in the 1960s. Only in 1960, 17 Sub-Saharan countries became independent, [mostly from France](https://www.france24.com/en/20100214-1960-year-independence), and Cyprus (from the United Kingdom). In the meantime, 56.8% of processes took place between 1951 and 1980.
+The 20th century saw an amazing number of **146 declarations of independence**, a sign of how important the 1900 centenary was in world history. Twenty percent of those were held in the 1960s. Only in 1960, 17 Sub-Saharan countries became independent, [mostly from France](https://www.france24.com/en/20100214-1960-year-independence), and Cyprus (from the United Kingdom). In the meantime, 56.8% of processes took place between 1951 and 1980.
 
 Special mentions to the decades of 1820s, when Greece and 11 Latin American countries became independent; the 1910s (15 States), and the 1990s, when the Soviet Union and Yugoslavia disintegrated.
 
@@ -105,4 +105,4 @@ Fifty-nine nations reached independence from the United Kingdom between the Unit
   yAxis="number"
 />
 
-Twenty States were freed from Spain, the majority located in Central and Southh America, while other 16 countries belonged either to the Russian Empire (prior to 1918) or to the Soviet Union (until 1990-91). The disintegration of the USSR marked the [end of the Cold War](https://www.britannica.com/question/How-did-the-Cold-War-end).
+Twenty States became autonomous from Spain, the majority located in Central and South America, as other 16 countries that belonged either to the Russian Empire (prior to 1918) or to the Soviet Union (until 1990-91). The disintegration of the USSR marked the [end of the Cold War](https://www.britannica.com/question/How-did-the-Cold-War-end).
