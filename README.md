@@ -1,13 +1,17 @@
 ---
 title: 'Independence days around the world'
 author: 'César Heredia, data journalist'
-description: 'A detailed look at the dates of the different independence days in 183 selected countries'
+description: 'A detailed look at the dates of the different independence days in 172 selected countries or territories'
 modified: '2024-07-05'
 files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv','per_date.csv','century_decade.csv','independence_from.csv',]
 group: 'Miscellaneous'
 ---
 
 *By César Heredia, data journalist*
+
+The United States celebrated the 248th anniversary of its independence from the Kingdom of Great Britain on July 4. But "America" isn't the only country that gained independence in July. At least 23 out of 172 countries achieved the feat this month, among them Argentina, Belgium, Canada, Colombia, Rwanda, and Venezuela.
+
+Below is the full list of 172 states that obtained independence from 1000 (Hungary) to 2011 (South Sudan).
 
 #### Independendence days per country
 <FlatUiTable
