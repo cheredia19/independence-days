@@ -17,7 +17,7 @@ group: 'Miscellaneous'
 />
 
 #### Timeline of independence days
-<LineChart
+<PlotlyBarChart
   data={{
     url: 'per_date.csv'
   }}
