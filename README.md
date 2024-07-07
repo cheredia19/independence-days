@@ -71,7 +71,7 @@ By months, the ones that belong to the **third quarter of the year** recorded th
 The 20th century saw an amazing number of **146 declarations of independence**, a sign of how important the 1900 centenary was in world history. Twenty percent of those were held in the 1960s. Only in 1960, 17 Sub-Saharan countries became independent, [mostly from France](https://www.france24.com/en/20100214-1960-year-independence), and Cyprus (from the United Kingdom). In the meantime, 56.8% of processes took place between 1951 and 1980.
 
 ### Number of independences in the 20th century
-<PlotlyBarChart
+<PlotlyLineChart
   data={{
     url: '1900s.csv'
   }}
@@ -116,3 +116,5 @@ Fifty-nine nations reached independence from the United Kingdom between the Unit
 />
 
 Twenty States became autonomous from Spain, the majority located in Central and South America, as other 16 countries that belonged either to the Russian Empire (before 1918) or to the Soviet Union (until 1990-91). The disintegration of the USSR marked the [end of the Cold War](https://www.britannica.com/question/How-did-the-Cold-War-end).
+
+##### Source of data: [Independence Days dataset located on Kaggle](https://www.kaggle.com/datasets/rtatman/independence-days)
