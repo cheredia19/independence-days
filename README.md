@@ -3,7 +3,7 @@ title: 'Independence days around the world'
 author: 'César Heredia, data journalist'
 description: 'A detailed look at the dates of the different independence days in 172 selected countries or territories'
 modified: '2024-07-05'
-files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv','per_date.csv','century_decade.csv','independent_from.csv',]
+files: ['countries_date.csv','per_day.csv','per_month.csv','per_year.csv','per_date.csv','century_decade.csv','independent_from.csv','1900s.csv']
 group: 'Miscellaneous'
 ---
 
@@ -76,7 +76,7 @@ The 20th century saw an amazing number of **146 declarations of independence**, 
     url: '1900s.csv'
   }}
   title="1960 and 1991 led the way in the last century before 2000"
-  xAxis="century_decade"
+  xAxis="year"
   yAxis="number"
 />
 
