@@ -20,6 +20,14 @@ Below is the full list of 172 states that obtained independence from 1000 (Hunga
   }}
 />
 
+On September 9, 1821, five countries separated from Spain (Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua). The event is called *Independencia de Centroamérica*, or [Independence of Central America](https://en.wikipedia.org/wiki/Act_of_Independence_of_Central_America). This was the date on which most countries gained their independence. There were four dates on which the independence process was held:
+
+ - May 28, 1918: Armenia and Azerbaijan declared independence from the Russian Empire.
+ - August 15, 1945: North, and South Korea.
+ - October 01, 1960: Cyprus, and Nigeria (the former gained independence from the United Kingdom on August 16, but is commonly celebrated on October 1).
+ - July 1, 1962: Burundi and Rwanda regained independence from Belgium.
+
+
 #### Timeline of independence days
 <PlotlyLineChart
   data={{
