@@ -67,19 +67,19 @@ By months, the ones that belong to the third quarter of the year have the highes
 />
 
 ### Number of independences per year
-<FlatUiTable
-  data={{
-    url: 'per_year.csv'
-  }}
-/>
-
-### Number of independences per year
 <PlotlyBarChart
   data={{
     url: 'per_year.csv'
   }}
-  xAxis="month"
+  xAxis="year"
   yAxis="number"
+/>
+
+### Number of independences per year
+<FlatUiTable
+  data={{
+    url: 'per_year.csv'
+  }}
 />
 
 ### Number of independences per century/decade
