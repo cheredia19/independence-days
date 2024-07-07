@@ -13,6 +13,7 @@ group: 'Miscellaneous'
 <FlatUiTable
   data={{
     url: 'countries_date.csv'
+    uniqueId: 2
   }}
 />
 
