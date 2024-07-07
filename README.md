@@ -12,8 +12,7 @@ group: 'Miscellaneous'
 #### Independendence days per country
 <FlatUiTable
   data={{
-    url: 'countries_date.csv'
-    uniqueId: 2
+    url: 'countries_date.csv'    
   }}
 />
 
